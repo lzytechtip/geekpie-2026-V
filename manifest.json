@@ -1,0 +1,389 @@
+{
+  "version": 5,
+  "captures": [
+    {
+      "file": "captures/000.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:000",
+      "R": "0323fa3fcf4ec62bf77d46a570a0e51f131ae4ce5854a0f7f3592d1651ffb68b2a",
+      "s": "9f52f3e151a08a0a0ef8e102e634e9b5eb70aab7ed77415e0571d79798957219"
+    },
+    {
+      "file": "captures/001.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:001",
+      "R": "0377a84b205f5621d1cb3467632e331cf3e1a345a3071117a529ae640efe5a8a15",
+      "s": "9a83ee529bc29a8fef09c21e236ca718879aca7f406331b85749dbb7479bac9b"
+    },
+    {
+      "file": "captures/002.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:002",
+      "R": "0326650ffe62b8c079004833c393dcc30e2f1a6e03955152ca0aa7e07422b8e700",
+      "s": "eeef818f38212ac9c1dcf61599ee9f52203a0288e2814612c747c834cf63a9ca"
+    },
+    {
+      "file": "captures/003.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:003",
+      "R": "02d3cedfa1b4fa770b14da04bc790fed555216966b5e90bd3af1296b0021435529",
+      "s": "1b6a0258dd24cb33b9ae397a886fcf5de08872bea750c2b0565cb35d4d80bf68"
+    },
+    {
+      "file": "captures/004.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:004",
+      "R": "032181ab882376e853eb967df9b9622b9eb2986f39dd456db78f27d30687f24d22",
+      "s": "cbf46768aa40a74eeea02a4df792b441f3b56a83d97e767bd2a574c1249e6eb5"
+    },
+    {
+      "file": "captures/005.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:005",
+      "R": "03d0ab875e052a94511cd1718442e0ba4dd58c203b49398e10d2d9f917154e8a38",
+      "s": "30570c94f4443a46c62b458366409ece477f7a700f5704c2e53cbfaeff759e9e"
+    },
+    {
+      "file": "captures/006.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:006",
+      "R": "03037fab4d6328bd58f796976d17786f2d91ed87c6bdf0e0794b309d93e351c7f4",
+      "s": "9b51ac42524f0c6cc8fb56927d1828792b4f83a7c0a07d2f759351abff8d17a2"
+    },
+    {
+      "file": "captures/007.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:007",
+      "R": "0256459a0b4aaa18dfb65ed8d7bcb18cda463ea0a1ab85ef509995e977affd471b",
+      "s": "8f59f6810700e78f317236bc7829937233355dd46b0789b87a3dcad0b91f6ecf"
+    },
+    {
+      "file": "captures/008.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:008",
+      "R": "0237b51c54ffb261f1a36d2a4b4b717581c99b5e624097d5e5c33fa8e5ccdf9a6a",
+      "s": "430a9e559df68c588c41644561fe8b0d8b5474e085c1696d5eb6015c99ec6906"
+    },
+    {
+      "file": "captures/009.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:009",
+      "R": "028a00fb31b4c0798b886301b93d8d2e8c21ea3e9683523c65727a7da9c5a78a3f",
+      "s": "93a3d0015e4325f13d176ebd2a4f2f10d22fbd94e3affdbcc528e1e759fdb1a7"
+    },
+    {
+      "file": "captures/010.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:010",
+      "R": "0293c6223aebf47d37ea39eb6aaa38b19a9f82a2c52c91a72f344151618c680fe5",
+      "s": "808fd5b6a8acb94fb5c29b49d9315c0fa942b3c9fcda31ec00d2e74a2101c963"
+    },
+    {
+      "file": "captures/011.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:011",
+      "R": "0289edf4bbbc91f473e4cb94d9d88c169c17b9db6ccef12d0aea5ce482a6f58a1c",
+      "s": "38a3267f590ba5929f360acb271230fa6204954ef57d62124fa198ad1b93f2da"
+    },
+    {
+      "file": "captures/012.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:012",
+      "R": "02b3384346ee3cfde08665a23e646655a79b413c10e77749458ff28deb1af99c87",
+      "s": "d8806773990eb5b02f504a1fd37dcaf0d24daa74ad19bad02c75cc13aaa3c06b"
+    },
+    {
+      "file": "captures/013.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:013",
+      "R": "03345d9c87b44862dc895cddb68bdf2b69a68d81112ceff342b49928ffcd216b3a",
+      "s": "64ac4f82f069848cdd2a7e9c0095763eaf62abba4fc370ab4daa52362b4f26d1"
+    },
+    {
+      "file": "captures/014.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:014",
+      "R": "02438114bf8b28029a7425c1bd4be9cfd51f9a20e14239cf5e6c7a650ce10817a0",
+      "s": "c070e4fdbb2e5b4dc4aeee414cd7a888a142c44fb5e90fcbc7e6c7d7fc3e21ee"
+    },
+    {
+      "file": "captures/015.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:015",
+      "R": "039df1ef72aaff26532e20a206544ca262442f9635f9caa59163e47adee8537b20",
+      "s": "c6b785e68c82072d19073901bedd4592964f9443108864f8907e491cba45e887"
+    },
+    {
+      "file": "captures/016.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:016",
+      "R": "038fc01ce9cf5fbe71261e1d1fdd2b515a84df2a1e16c81c85ead928af245d0856",
+      "s": "353f2f238f5185fca5f267719bb6c6ad224a9d9a3c76f1ce6c825006d88fce38"
+    },
+    {
+      "file": "captures/017.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:017",
+      "R": "039caaed11a67c892879064bca57dedfa6692c24a8ad0f341e216e7432e78d0175",
+      "s": "8720d5b090a72ed041952c8a5dfb0ce5715721e606d55881ce2e572c6d90be83"
+    },
+    {
+      "file": "captures/018.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:018",
+      "R": "038382c55f8c6ebc697f2d179d933b8a588579267de46e36422c016744377e6ed6",
+      "s": "4c0c56d3b58b28393a03c964a4efd50125693cf2921005146b67b851577d0dcb"
+    },
+    {
+      "file": "captures/019.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:019",
+      "R": "03b2cd3506ac14bfa89d105968a4ef24d073df458cfc7700f22e9e3ade91aeab7e",
+      "s": "f71916edfd4d941fe1aa9b0f3bf2573e63282ebf392d5bd62c4190b31ebcd12d"
+    },
+    {
+      "file": "captures/020.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:020",
+      "R": "036fbc28c5ea40f757517b73284e3a89f8339f2257eef7d49dab2fbe05dcc6dca5",
+      "s": "cf6b931fcd263aa09b3cf654571882056982d2398280981cbdd310de27aeaebd"
+    },
+    {
+      "file": "captures/021.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:021",
+      "R": "03c05cbdaa17740021c4f98d1dc5fe3750b8b3f8ecbfabaa1b06d0cda3027744a6",
+      "s": "7b74dd7c8560e05d87ff86de4ef7f98d16c3651b28666d276010e5926b238157"
+    },
+    {
+      "file": "captures/022.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:022",
+      "R": "033c8d4c2253af17ccc87c7fe714a377924b9ea880b847ec6521068dda3a2ff929",
+      "s": "caf6536e5544ca67a20dc56e783a3a2c2d7a3fab6b10e2bba0a13386cf797e5e"
+    },
+    {
+      "file": "captures/023.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:023",
+      "R": "02069c19f2c65a2325b82378392db55dd9428528a2c46c4fb7aa10c877563f2159",
+      "s": "91ba08c6490bd42e18c7cf55b5afc4f91b9187c4c82ec8ea7641c7e1db69de8e"
+    },
+    {
+      "file": "captures/024.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:024",
+      "R": "02393341a7b609dc748feb302128bdf7178633e50f5ef6f67c3410c5ad4dc417b9",
+      "s": "6740647bc9dbe6073ea8c510f9a4dadc5af35856d1c62d57fe3589ec681bde79"
+    },
+    {
+      "file": "captures/025.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:025",
+      "R": "035c22de19c96c5aa869b6b7f1cea796852d5facc29c03a9c2c7c15fe6cb3ed1f1",
+      "s": "e7d801eae0482e8aa8047a3a646c53049e5266652fdf29eedbf91a47dc5943e7"
+    },
+    {
+      "file": "captures/026.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:026",
+      "R": "0275576556fa2ed25839602d1cd80f30fabc3d53a252d928066a879646e58f077c",
+      "s": "75bcbf1ecb7668f8d907d022caa36d7c37dcf691b2d197982352192f2c0ef0fe"
+    },
+    {
+      "file": "captures/027.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:027",
+      "R": "028ff385e7dc1aec0ea01002c4ca1e28c83a48732433ccc6972896509c8f65436d",
+      "s": "b349739cfe40dae9b110c5452350b3fce3749fd7cafe5eb9db2111213e747f8a"
+    },
+    {
+      "file": "captures/028.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:028",
+      "R": "027db587571bd464a370cfe005edd3a1bc9f2b7d111eefa011a2c25fbff51645be",
+      "s": "5d5a6861e3aaa97ad426ab19edbc454fda8b7fdadc556659b05cc9c0bb9857b4"
+    },
+    {
+      "file": "captures/029.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:029",
+      "R": "02612963ed57d46a2e4b1f197a6025b409b303922d217d9854fa5fda8887d8e603",
+      "s": "239b6b321dda9cae84e7d985b91dbf222743be2a24bdd10d220c0b8b31323dac"
+    },
+    {
+      "file": "captures/030.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:030",
+      "R": "03d02e98bb54a4517c9a7f9d75bf669f71b57a74cf26625415deeedbe66dfa1300",
+      "s": "8807b632b938023a04a42f3e7e517e2b28f08ba21d08284be77f3ab509681e16"
+    },
+    {
+      "file": "captures/031.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:031",
+      "R": "039b742736af37e9e15890d578daca6945aee0c78fce924d042ec96b735cec449c",
+      "s": "e7105c5cebb606cd0dadb16825e17e3fb1b7a2dcaa474b7d2c5cb72c38ec27fe"
+    },
+    {
+      "file": "captures/032.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:032",
+      "R": "03fae0151bd24e6672635ce68e3b25859171dd8525632bab587a220e9d09f609de",
+      "s": "33eae47da0cf4fcba70b0aee6b7ec0c677472c2a2252b193ccffbe7e939f39d3"
+    },
+    {
+      "file": "captures/033.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:033",
+      "R": "039c48076234ccc966c293d04f92af4f16eb6c39075fbbc0b8c610b7e0ba3b5f3a",
+      "s": "00d8bb6b8fd1c4f54925dfa634fc01d7767cb9815ce035b0f343e69ab6701d70"
+    },
+    {
+      "file": "captures/034.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:034",
+      "R": "02d018ada660c00ca007f27c8176a202006eb81f7493e0ebb47e1ac53535ecffb3",
+      "s": "a6c5976a2d2af7cbcf00ab881baee644c5681f87cd59c299365a0510be41a291"
+    },
+    {
+      "file": "captures/035.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:035",
+      "R": "0227161efcdab32d90991692f95729efd0122b59b27a17ed31e48eb22d1d152a25",
+      "s": "688ca1805f0cccfe9530d4d81101d0df3ea41f4f3c894996d4803396824d925f"
+    },
+    {
+      "file": "captures/036.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:036",
+      "R": "028dfbbcffd4308894be49db07f0e644a1645a94024cba709b12aad23e7c4bcc91",
+      "s": "387f3bad1dff9e0247e6bab0d94429c4838de8387c1c7aac5cc6bf9c26fe7a1b"
+    },
+    {
+      "file": "captures/037.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:037",
+      "R": "0200dbfebd57f51fdc368e260fcc95e9a6b7f14a8e96da957b0c6190639c7ba268",
+      "s": "6ee478d36eca0d917c6b0a5411d9e6a1a3ba9c16c7af9da792d6fd2c77127bed"
+    },
+    {
+      "file": "captures/038.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:038",
+      "R": "025e17efa7487cb877f40c13faafbcf58788ea0ab12e3526213693e45913d4407c",
+      "s": "03da29276c93953620decb72f48f968d253815b7403dfc00649083e9638b4b04"
+    },
+    {
+      "file": "captures/039.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:039",
+      "R": "02569b5be52973314bd48d11d581fff488d19b3de04b3b25275af512f4c93775d3",
+      "s": "90c130168c7aea455d1250050c8603b14c54cf4567d40de0ee6586fb94974920"
+    },
+    {
+      "file": "captures/040.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:040",
+      "R": "03803d7ecd2ee1795b8bafdb84133b6ec2ec9548fb5f78f929c2595207404a878f",
+      "s": "21fa2eaa0194f0c1641d8247640225619f74ba011fa01c47b30ba4216523b852"
+    },
+    {
+      "file": "captures/041.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:041",
+      "R": "02d98f2d9d8df334b759749225d8ba8dfa5fb520d9af81e018bb3743c451224119",
+      "s": "c5a3ba2b6616b54f262179fe01a237fa1785bbaee942d84cbd389e9c5af1bf18"
+    },
+    {
+      "file": "captures/042.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:042",
+      "R": "032ee9d1db03540fca02380c6482ec3db2ad8aad25e168969ec9c5f3220ecd1a42",
+      "s": "845f0bdc2fc10b52a21f416fabb8583e0aafb724aa6e8e496e0f9fcaaf2c3995"
+    },
+    {
+      "file": "captures/043.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:043",
+      "R": "036018f688c104b972ad648a263d9270c4cc92debb86e33237b56a376bfce687ef",
+      "s": "8fe99edf54aa7e5d154815b2425024f805e88c4c4a4f77937518c5688d36c93c"
+    },
+    {
+      "file": "captures/044.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:044",
+      "R": "022efe1ffe879e2f2b7d9b7dc57fe4c0a3252095b04952daaccb854e1b69ebbfdf",
+      "s": "7380018db50a16efd95b4eb6c8232cf963c7e04e4470db7d364f3a7f19b0811b"
+    },
+    {
+      "file": "captures/045.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:045",
+      "R": "03a4dbf346db9fb53188da950f2feb82bfae84ef584ebe9075b0bb14e04d13b8e4",
+      "s": "98f9fec076bedb68f042ac99a58acc8bf12b1c61881bf3aed3b408788372b08d"
+    },
+    {
+      "file": "captures/046.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:046",
+      "R": "0304b430dedb1f5f3f93e349d3e5fa675e19fc27ff7963412a0f103757851a2242",
+      "s": "f252277db429a9db93b37f9baf6226150d4199133909fb246df1cad7f42ec6e8"
+    },
+    {
+      "file": "captures/047.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:047",
+      "R": "03fff2ee2969bc2d3a1d43c066438de6dae405735bab0881875641ff1dee24593f",
+      "s": "ccb61d65c8d2c73615fdf9a51672852480a5e6dab3e983b1d445a0f950623ca4"
+    },
+    {
+      "file": "captures/048.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:048",
+      "R": "026a528b8540c61858f61837bf1ff8c5562950ad757847d0f18c283d66ee45aeac",
+      "s": "1eb5711573faa8c404a05da3093d5a005442353319b7eb0d92005598ff28690d"
+    },
+    {
+      "file": "captures/049.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:049",
+      "R": "035432e38468390c38e6cc69c3e47665ca59afc383b5847f63c75b3ebb50bf9b85",
+      "s": "f42b87095ab965891db29c5f3343702d55ae7b36cc864bb2c0ed2d459c02fc8e"
+    },
+    {
+      "file": "captures/050.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:050",
+      "R": "022bf5bf9055d6f98a2b6935f095db26fe10a8dee1f4780c17cb70dd9222f06a45",
+      "s": "d3550398fbea79319a2c3c76047b55ccc4443352f214f029755baa5cc31959bc"
+    },
+    {
+      "file": "captures/051.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:051",
+      "R": "027196c73db8770e79687bdd20988413b0ba6c673024ac78b81795ec3594fcc486",
+      "s": "bcd64afafaa2154ec878feb873b79fd8ed9ed28e600d54a64897a1fd3b9cd4d3"
+    },
+    {
+      "file": "captures/052.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:052",
+      "R": "0292346cf6bf4c9b0aac7217e436b30a649e0eaa388b13e0c5ef82485b102516c4",
+      "s": "b24160af613418ac0c93bc3f02835167a289d54fd2fcaf3a0c144359196511c0"
+    },
+    {
+      "file": "captures/053.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:053",
+      "R": "032839d947ebf3c090e697192e4c2d72a089f1e2a339b879f7b745e2d7501ed0ae",
+      "s": "16e213342d55afbcba5dc674dffdc05197aea971dcbe490bbcc67f37d1233c6d"
+    },
+    {
+      "file": "captures/054.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:054",
+      "R": "03e1c0188aac3f69d730b72ab84859f7919c6cb05a8695a81b4e0d4363e471ff62",
+      "s": "bb9045aca62169f65b5690c4238c6d61fd68c29bce330e498738597b40ae8aee"
+    },
+    {
+      "file": "captures/055.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:055",
+      "R": "02ee546b9ee594f0498e2d9a91afb52c4c50f2605be34d220ec368949ca7bd36f5",
+      "s": "d28876de6e733decd28297fcd243a99ea7d0487656c80a5953ab0938e558b991"
+    },
+    {
+      "file": "captures/056.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:056",
+      "R": "0214dd4b710e984e422a6bb06404769a4dcee5e701bbf74234efdfa7ddb80acce6",
+      "s": "2ecb91cac9c47702ddd4e59ab3e7f70a6226be9d699d9bf21c397a37b8347de5"
+    },
+    {
+      "file": "captures/057.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:057",
+      "R": "02969a93444ffe9388e80e8be7beaf09b2bba3f4300878862997f644ff89b87146",
+      "s": "c4a46d4fde44fb44bcba0e85e333e12421917f1dda0dd18f10d846c56a18c261"
+    },
+    {
+      "file": "captures/058.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:058",
+      "R": "03563a6a95e0e20f50f94581f91c9ed08058501915bc22a0887af21d1c2739dbe4",
+      "s": "89af68611954327af954ef733f61f1d5c020a0588cee58c1f711e0a11c518878"
+    },
+    {
+      "file": "captures/059.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:059",
+      "R": "03d5b51ec474c3fd7967850fad190c95b30bff6176d92694e68eab116edeb94fc2",
+      "s": "419ae6f61011524e43b7fb1621eec4a42f5689c6d5825c3a9b2010767d34c9b7"
+    },
+    {
+      "file": "captures/060.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:060",
+      "R": "0382ae4394f4dd00cc54298bf42acd83a208f704b699e4a05c554124ee3d8e0780",
+      "s": "ffa3abc5cca74f63a30bb2b6c03696b4cdbd9e5d7c89088898c7f63a760541e2"
+    },
+    {
+      "file": "captures/061.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:061",
+      "R": "02e8439f9b5979405e3c593e53ff39ea0c2cdaaeff844c95c4585fa662bd68d10b",
+      "s": "f807c99aa644c425bdab38047dcc6b69fedbfba2d75c56f4b28909b1e5fd3c1e"
+    },
+    {
+      "file": "captures/062.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:062",
+      "R": "038702770bd0577931c2412d7de953fccabb4051054a296e06ea97072ef6ae784a",
+      "s": "ef00beed1acaddfe44012cfbe0efd674042ee3383f430af8d1f169be6b3b1dfc"
+    },
+    {
+      "file": "captures/063.wav",
+      "message": "diagnostic:db3ba73afea400de83c1bbaa:063",
+      "R": "0254d314358b1345d24b3d28c8e58457bc81ab7b08f648d895b749f08546db2c2e",
+      "s": "80c409e4a3ae1ee3a0b44aefd24b9268182ed0dea55a8e092a4351b894e3d219"
+    }
+  ]
+}
